@@ -1,18 +1,31 @@
-# NeonBot
-Simple discord bot named - [NeonBot](https://discordapp.com/oauth2/authorize?client_id=597606520330649622&scope=bot&permissions=8)
-![NeonBot](https://cdn.glitch.com/9c6b0f62-e785-4559-85a7-b8dbaf7621b1%2FNeonsTeamIcoSmall.png?v=1566497900164)
---------------
-Made with [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org/)
+Welcome to Glitch
+=================
 
-# Have simple commands like:
-1. Ban
-2. Kick
-3. Help
-4. Server
-5. User
-6. Info
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-# Bot systems like:
-1. Xp system
-2. Money system
-3. Music system
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+
+Find out more [about Glitch](https://glitch.com/about).
+
+
+Your Project
+------------
+
+On the front-end,
+- edit `public/client.js`, `public/style.css` and `views/index.html`
+- drag in `assets`, like images or music, to add them to your project
+
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+
+This app has a database!
+- this app uses sqlite but you can power your apps with [a number of other storage options](https://glitch.com/storage)
+- `sqlite.db` is created and put into the `.data` folder, a hidden directory whose contents aren’t copied when a project is remixed. you can see the contents of `.data` in the console under "Logs"
+
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
