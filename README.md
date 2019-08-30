@@ -16,3 +16,13 @@ Made with [Node.js](https://nodejs.org/) and [Discord.js](https://discord.js.org
 1. Xp system
 2. Money system
 3. Music system
+
+# Downloading and using:
+1. You must to create right here new file named secret.env
+2. Open this secret file
+3. Write `SECRET="Here you must to provide your discord bot's secret token"`
+4. Save
+5. Open cmd and write `npm .` And if you see `[Here will be date and time] Ready!` bot is working, else search for issues
+
+# If you have some questions contact me on my [Discord Server](https://discord.gg/Pasy6fG)
+# If you have issue you can write to [Issues page](https://github.com/SuperNeon4ik/NeonBot/issues)
