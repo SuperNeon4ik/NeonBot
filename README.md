@@ -1,4 +1,4 @@
-# NeonBot
+# NeonBot [OLD]
 Simple discord bot named - [NeonBot](https://discordapp.com/oauth2/authorize?client_id=597606520330649622&scope=bot&permissions=8)
 ![NeonBot](https://cdn.glitch.com/9c6b0f62-e785-4559-85a7-b8dbaf7621b1%2FNeonsTeamIcoSmall.png?v=1566497900164)
 --------------
